@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040364
+# Name: Sandya S
+# Date: 21/11/26
 
 
 # AIM:
@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="1007" height="722" alt="Railway" src="https://github.com/user-attachments/assets/71f0ce70-cd12-4860-b151-f8e65bbaf62e" />
 
 
 
@@ -59,6 +60,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1232" height="882" alt="Railway Management class diagram" src="https://github.com/user-attachments/assets/a287518c-1475-4ad4-9eac-adfac904b8fb" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1242" height="892" alt="Railway Management System" src="https://github.com/user-attachments/assets/3bb5e172-3746-42f7-b27a-6e0b59216c48" />
 
 
 
@@ -78,6 +81,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
+<img width="962" height="712" alt="image" src="https://github.com/user-attachments/assets/572ddbfc-7ca5-4abe-8936-785de217e8e8" />
 
 
 
@@ -97,6 +101,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="1067" height="767" alt="image" src="https://github.com/user-attachments/assets/07f8a9bd-ea85-436c-b025-bd0bad7e1042" />
 
 
 
@@ -118,6 +123,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="1240" height="892" alt="Railway Reservation System Sequence Diagram" src="https://github.com/user-attachments/assets/0c2b217c-ff3b-4d85-9341-7f9e487a627a" />
 
 
 
